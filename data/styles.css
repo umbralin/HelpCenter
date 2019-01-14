@@ -81,6 +81,9 @@
 .checkbox {
   text-align:left;
 }
+.tree_node {
+  text-align:left;
+}
 .table_cell {
 }
 ._流程形状 {
@@ -130,7 +133,7 @@
 .radio_button {
   text-align:left;
 }
-.tree_node {
+.tree_node1 {
   text-align:left;
 }
 .table {
